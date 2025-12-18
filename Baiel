@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Baiel Anvarov</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to Baiel Anvarov's Website</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>Hello! I'm Baiel Anvarov, a passionate web developer and designer. I love creating beautiful and
+                functional websites that provide an excellent user experience.</p>
+            <p>Feel free to explore my projects and get in touch!</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Baiel Anvarov. All rights reserved.</p>
+        <p>+996 224 46 46 07</p>
+        <p>baielanvarov@gmail.com</p>
+    </footer>
+</body>
+
+</html>
